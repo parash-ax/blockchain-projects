@@ -14,10 +14,8 @@ This repository contains a basic implementation of a blockchain in Python. The b
 
 ## Getting Started
 
-To run the blockchain project locally, follow these steps:
-
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YourUsername/blockchain-project.git
+   git clone https://github.com/parash-ax/blockchain-project.git
    cd blockchain-project
